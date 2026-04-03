@@ -23,7 +23,7 @@ bun install
 ### 运行
 
 ```bash
-# 开发模式, 看到版本号 888 说明就是对了
+# 开发模式
 bun run dev
 
 # 构建
